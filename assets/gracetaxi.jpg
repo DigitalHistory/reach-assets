@@ -1,0 +1,13 @@
+--2021-08-03 16:48:54--  https://img.favpng.com/0/18/19/london-taxi-hackney-carriage-clip-art-png-favpng-LsySkk7T0FCcjbdEJbiZ5psZm.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving img.favpng.com (img.favpng.com)... 2606:4700:20::681a:5ba, 2606:4700:20::681a:4ba, 2606:4700:20::ac43:4478, ...
+Connecting to img.favpng.com (img.favpng.com)|2606:4700:20::681a:5ba|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62208 (61K) [image/jpeg]
+Saving to: ‘london-taxi-hackney-carriage-clip-art-png-favpng-LsySkk7T0FCcjbdEJbiZ5psZm.jpg’
+
+     0K .......... .......... .......... .......... .......... 82% 1.14M 0s
+    50K ..........                                            100% 4.22M=0.05s
+
+2021-08-03 16:48:55 (1.30 MB/s) - ‘london-taxi-hackney-carriage-clip-art-png-favpng-LsySkk7T0FCcjbdEJbiZ5psZm.jpg’ saved [62208/62208]
+

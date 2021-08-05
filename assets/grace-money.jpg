@@ -1,0 +1,13 @@
+--2021-08-03 16:49:15--  https://lh3.googleusercontent.com/proxy/SVTWA64ZeNrQ2Zvsz55B7LqcmIeNNfcaLTxJfV7-ab-5cBzUROWAsy-Rsu39Bi3QXKbotHjeHMulkz9ep8ywsONMwebayV6W5fnnnt7lxGrZcQGra1QclNNZW7KPruyAx91b28SUI8q5hZ31Rg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving lh3.googleusercontent.com (lh3.googleusercontent.com)... 2607:f8b0:400b:80c::2001, 142.251.33.161
+Connecting to lh3.googleusercontent.com (lh3.googleusercontent.com)|2607:f8b0:400b:80c::2001|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 77108 (75K) [image/jpeg]
+Saving to: ‘SVTWA64ZeNrQ2Zvsz55B7LqcmIeNNfcaLTxJfV7-ab-5cBzUROWAsy-Rsu39Bi3QXKbotHjeHMulkz9ep8ywsONMwebayV6W5fnnnt7lxGrZcQGra1QclNNZW7KPruyAx91b28SUI8q5hZ31Rg’
+
+     0K .......... .......... .......... .......... .......... 66%  180K 0s
+    50K .......... .......... .....                           100% 2.80M=0.3s
+
+2021-08-03 16:49:16 (263 KB/s) - ‘SVTWA64ZeNrQ2Zvsz55B7LqcmIeNNfcaLTxJfV7-ab-5cBzUROWAsy-Rsu39Bi3QXKbotHjeHMulkz9ep8ywsONMwebayV6W5fnnnt7lxGrZcQGra1QclNNZW7KPruyAx91b28SUI8q5hZ31Rg’ saved [77108/77108]
+

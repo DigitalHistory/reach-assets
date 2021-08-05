@@ -1,0 +1,13 @@
+--2021-08-03 16:47:38--  https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX2578564.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving d2gg9evh47fn9z.cloudfront.net (d2gg9evh47fn9z.cloudfront.net)... 13.226.142.34, 13.226.142.209, 13.226.142.152, ...
+Connecting to d2gg9evh47fn9z.cloudfront.net (d2gg9evh47fn9z.cloudfront.net)|13.226.142.34|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56241 (55K) [image/jpeg]
+Saving to: ‘800px_COLOURBOX2578564.jpg’
+
+     0K .......... .......... .......... .......... .......... 91%  323K 0s
+    50K ....                                                  100% 97.8M=0.2s
+
+2021-08-03 16:47:38 (355 KB/s) - ‘800px_COLOURBOX2578564.jpg’ saved [56241/56241]
+

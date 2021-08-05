@@ -1,0 +1,13 @@
+--2021-08-03 16:52:07--  https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Cab-card-wis-front.jpg/350px-Cab-card-wis-front.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving upload.wikimedia.org (upload.wikimedia.org)... 2620:0:861:ed1a::2:b, 208.80.154.240
+Connecting to upload.wikimedia.org (upload.wikimedia.org)|2620:0:861:ed1a::2:b|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 53399 (52K) [image/jpeg]
+Saving to: ‘350px-Cab-card-wis-front.jpg’
+
+     0K .......... .......... .......... .......... .......... 95% 1.12M 0s
+    50K ..                                                    100% 4.00T=0.04s
+
+2021-08-03 16:52:07 (1.17 MB/s) - ‘350px-Cab-card-wis-front.jpg’ saved [53399/53399]
+

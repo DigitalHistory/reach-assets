@@ -1,0 +1,13 @@
+--2021-08-03 16:54:52--  https://i.ebayimg.com/00/s/NjY3WDEwMDA=/z/U8kAAOSwSlRfjGj9/.jpg
+Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
+Resolving i.ebayimg.com (i.ebayimg.com)... 2001:1900:2302:2f03::1fa, 2001:1900:23b0:4d::1fa, 2001:1900:23b0:1::1fa, ...
+Connecting to i.ebayimg.com (i.ebayimg.com)|2001:1900:2302:2f03::1fa|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Cookie coming from i.ebayimg.com attempted to set domain to ebay.com
+Length: 1359 (1.3K) [image/jpeg]
+Saving to: ‘.jpg’
+
+     0K .                                                     100% 37.0M=0s
+
+2021-08-03 16:54:53 (37.0 MB/s) - ‘.jpg’ saved [1359/1359]
+
